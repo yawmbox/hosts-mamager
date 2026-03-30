@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hosts Manager
+Comment=Manage /etc/hosts file with ease
+Exec=/usr/bin/python3 {{APP_DIR}}/hosts_manager.py
+Icon={{APP_DIR}}/assets/icon.png
+Terminal=false
+Categories=Development;System;Utility;
+Keywords=hosts;network;ip;mapping;
+StartupNotify=true
