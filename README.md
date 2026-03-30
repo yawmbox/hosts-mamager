@@ -1,7 +1,8 @@
 # Hosts Manager
 
 <p align="center">
-  <img src="assets/icon.png" width="200" alt="Hosts Manager Icon" />
+  <img src="assets/icon.png" width="200" alt="Hosts Manager Icon" /><br>
+  <img src="assets/screenshot.png" width="600" alt="Hosts Manager Screenshot" />
 </p>
 
 Un potente strumento grafico (GUI) per gestire facilmente il file `/etc/hosts` in ambiente di sviluppo (Linux, e compatibile Windows/macOS). Supporta aggiunte, modifiche e disattivazioni rapide di directive, senza la necessità di eseguire l'intera interfaccia come utente root.
